@@ -1,2 +1,2 @@
-# kix
+# Kix
 Kix - client website
