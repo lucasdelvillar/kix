@@ -1,5 +1,5 @@
 # Kix
-This is a static website that ultlizes responsive web design. 
+Static website that ultlizes responsive web design. 
 
 **Link to project:** https://kix.netlify.app/
 
